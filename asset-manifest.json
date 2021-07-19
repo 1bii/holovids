@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/holovids/static/css/main.a617e044.chunk.css",
-    "main.js": "/holovids/static/js/main.2f6445ef.chunk.js",
-    "main.js.map": "/holovids/static/js/main.2f6445ef.chunk.js.map",
+    "main.js": "/holovids/static/js/main.bfeaa87b.chunk.js",
+    "main.js.map": "/holovids/static/js/main.bfeaa87b.chunk.js.map",
     "runtime-main.js": "/holovids/static/js/runtime-main.1a035c2b.js",
     "runtime-main.js.map": "/holovids/static/js/runtime-main.1a035c2b.js.map",
     "static/js/2.d2a8c218.chunk.js": "/holovids/static/js/2.d2a8c218.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1a035c2b.js",
     "static/js/2.d2a8c218.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.2f6445ef.chunk.js"
+    "static/js/main.bfeaa87b.chunk.js"
   ]
 }
