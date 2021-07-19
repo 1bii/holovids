@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/holovids/static/css/main.a617e044.chunk.css",
-    "main.js": "/holovids/static/js/main.683c0e09.chunk.js",
-    "main.js.map": "/holovids/static/js/main.683c0e09.chunk.js.map",
+    "main.js": "/holovids/static/js/main.66bb119f.chunk.js",
+    "main.js.map": "/holovids/static/js/main.66bb119f.chunk.js.map",
     "runtime-main.js": "/holovids/static/js/runtime-main.35651db0.js",
     "runtime-main.js.map": "/holovids/static/js/runtime-main.35651db0.js.map",
-    "static/js/2.dbf7ca63.chunk.js": "/holovids/static/js/2.dbf7ca63.chunk.js",
-    "static/js/2.dbf7ca63.chunk.js.map": "/holovids/static/js/2.dbf7ca63.chunk.js.map",
+    "static/js/2.12059770.chunk.js": "/holovids/static/js/2.12059770.chunk.js",
+    "static/js/2.12059770.chunk.js.map": "/holovids/static/js/2.12059770.chunk.js.map",
     "static/js/3.0dbd3f35.chunk.js": "/holovids/static/js/3.0dbd3f35.chunk.js",
     "static/js/3.0dbd3f35.chunk.js.map": "/holovids/static/js/3.0dbd3f35.chunk.js.map",
     "index.html": "/holovids/index.html",
     "static/css/main.a617e044.chunk.css.map": "/holovids/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.dbf7ca63.chunk.js.LICENSE.txt": "/holovids/static/js/2.dbf7ca63.chunk.js.LICENSE.txt",
+    "static/js/2.12059770.chunk.js.LICENSE.txt": "/holovids/static/js/2.12059770.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/holovids/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.35651db0.js",
-    "static/js/2.dbf7ca63.chunk.js",
+    "static/js/2.12059770.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.683c0e09.chunk.js"
+    "static/js/main.66bb119f.chunk.js"
   ]
 }
